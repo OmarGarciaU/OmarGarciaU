@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 -->
 I'm Omar, I am an applied mathematician and Computer Scientist
 
+My Main tech stack is C, C++, CMAKE, OpenGL, VULKAN, Neovim 
+
 I love to apply math anywhere it fit's (Spoiler alert it's everywhere)
 
 I implement Mathematical concepts in code
 
 I am looking forward to getting into sumulations and sumulated worlds 
 
-My Main tech stack is C, C++, CMAKE, OpenGL, VULKAN, Neovim 
 
 FUN FACTS:
 * I Have a dog
