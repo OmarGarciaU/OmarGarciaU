@@ -27,5 +27,6 @@ I am looking forward to getting into sumulations and sumulated worlds
 
 FUN FACTS:
 * I Have a dog
+* I speak three languages 
 * I don't drink coffee or tea
 * I love films 
